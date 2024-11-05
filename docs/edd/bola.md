@@ -1,0 +1,11 @@
+# Exemple
+**En una empresa de desenvolupament de software s'acaba de descartar un projecte en el qual es porten mesos treballant, i amb això s'han perdut diverses desenes de milers d'euros d'inversió i moltes hores de treball. Quan es van començar els contactes amb el client, es van especificar uns requisits concrets per a l'aplicació, i després de mesos de treball, seguint un model de desenvolupament en cascada, el client no ha quedat satisfet amb el resultat, perquè no és el que esperava i ha decidit cancel·lar el contracte. Quin ha estat el problema? Com es podria haver resolt?**
+## Problemes identificats
+- Desconnexió entre els requisits inicials i les expectatives finals: El client pot haver canviat d'opinió sobre el producte durant el desenvolupament o potser no s'havia comprès correctament la seva visió inicial. A més, els requisits poden haver estat mal definits o insuficientment detallats.
+- L'ús del model en cascada: Aquest model no permet la retroalimentació contínua del client. Un cop els requisits estan establerts, el projecte avança de manera lineal sense consultar el client fins a fases posteriors, com el desplegament o les proves finals.
+- Pèrdua d'inversió i esforç: Al final del procés, l'empresa ha invertit molts mesos de treball i recursos, sense la seguretat que el client acceptarà el resultat final.
+## Com es podria haver resolt?
+-  Adopció d'un model iteratiu: Models de desenvolupament iteratiu promouen el lliurament iteratiu i incremental del producte. Això permet al client revisar i donar feedback regularment sobre petites parts funcionals del producte durant tot el procés de desenvolupament.
+- Revisió contínua amb el client: Fent reunions periòdiques amb el client per revisar l'evolució del projecte, identificar problemes o canvis en els requisits i ajustar el desenvolupament.
+- Prototips i mockups: Crear prototips funcionals o maquetes des del principi per assegurar- se que el producte que es dissenya coincideix amb la visió del client.
+- Gestió del canvi: Els requisits del client poden canviar durant el desenvolupament. Una gestió del canvi eficient permet incorporar aquestes modificacions sense haver de descartar tota la feina prèvia.

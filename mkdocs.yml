@@ -1,0 +1,24 @@
+site_name: 'Documentació de les tasques'
+theme:
+  name: 'material'
+  custom_dir: 'overrides'
+  palette:
+    primary: 'green'
+    accent: 'orange'
+    background: 'white'
+    surface: 'grey'
+    error: 'red'
+extra_css:
+  - 'overrides/extra.css'
+nav:
+  - Inici: index.md
+  - Articles EDD:
+    - Lenguatge més populares: edd/Llen_m_p.md
+    - Cas de la aplicació: edd/Aplicació.md
+    - Ordres per executar fitxers de diferents extensions: edd/Exec.md
+    - L' efecte bola de neu: edd/bola.md
+    - Projecte de desenvolupament de una pagina web: edd/web.md
+    - Scrum: edd/scr.md
+  - Articles LMI:
+    - Caracterisitiques dels llenguatges de marques: lmi/Car_llen_mar.md
+    - Identificació de espai de noms: lmi/Ide_es_noms.md
