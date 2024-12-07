@@ -19,6 +19,17 @@ nav:
     - L' efecte bola de neu: edd/bola.md
     - Projecte de desenvolupament de una pagina web: edd/web.md
     - Scrum: edd/scr.md
+    - Activitat_1: edd/Activitat_1.md
+    - Activitat_2: edd/Activitat_2.md
+    - Activitat_3: edd/Activitat_3.md
+    - Desenvolupament col·laboratiu: edd/desen.md
+    - Control de versions i model iteratiu: edd/subv.md
+    - SCV: edd/scv.md
+    - GitHub: edd/Git.md
+    - Java calculadora: edd/Javacalc.md
+    - Maven activitat terminal: edd/maven.md
+    - Visual studio maven: edd/vscode_maven.md
+    - Netbeans maven: edd/ntbeans_maven.md
   - Articles LMI:
     - Caracterisitiques dels llenguatges de marques: lmi/Car_llen_mar.md
     - Identificació de espai de noms: lmi/Ide_es_noms.md
